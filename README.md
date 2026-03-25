@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🚀 **Focus:** Mastering Data Structures, Algorithms, and System Design.
+<br>🚀 **Focus:** Mastering Data Structures, Algorithms, and System Design.<\br>
 👯 **Collaborate:** Open-source projects involving **Python** or **Java**.
 🤝 **Help:** Understanding complex concepts like **Dynamic Programming** or **Operating Systems**.
 🌱 **Learning:** Database Management and advanced **SQL** optimization.
