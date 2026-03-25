@@ -1,10 +1,10 @@
 # 💫 About Me
 
 <br>🚀 **Focus:** Mastering Data Structures, Algorithms, and System Design.</br>
-👯 **Collaborate:** Open-source projects involving **Python** or **Java**.
-🤝 **Help:** Understanding complex concepts like **Dynamic Programming** or **Operating Systems**.
-🌱 **Learning:** Database Management and advanced **SQL** optimization.
-⚡ **Fun Fact:** "It works on my machine" is my favorite (and most dangerous) phrase.
+<br>👯 **Collaborate:** Open-source projects involving **Python** or **Java**</br>
+<br>🤝 **Help:** Understanding complex concepts like **Dynamic Programming** or **Operating Systems**.</br>
+<br>🌱 **Learning:** Database Management and advanced **SQL** optimization.</br>
+<br>⚡ **Fun Fact:** "It works on my machine" is my favorite (and most dangerous) phrase.</br>
 
 ---
 
