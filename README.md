@@ -1,59 +1,64 @@
-# 🚀 Hi, I'm Sanjeet! 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003366,100:00ccff&height=200&section=header&text=Sanjeet%20Roy&fontSize=90&animation=fadeIn&fontAlignY=35" width="100%" />
 
+  ### ⚡ Software Engineer | Data Specialist | Problem Solver
+  
+  [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjeet-roy-6b1915373/)
+  [![Email](https://img.shields.io/badge/Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjeet1603@gmail.com)
+</div>
+
+---
+
+## 📑 Executive Summary
+I am a developer driven by the challenge of **Data Structures & Algorithms**. Currently, I am architecting my knowledge in **System Design** and **Database Internals**, moving beyond "it works on my machine" to "it scales for the world."
+
+* 🔭 **Current Focus:** Mastering the art of Dynamic Programming & Operating System architecture.
+* 👯 **Collaboration:** Seeking high-impact Open-source contributions in Python/Java ecosystems.
+* 🌱 **Deep Dive:** Optimizing complex SQL queries and exploring NoSQL scaling.
+
+---
+
+## 🛠 Tech Arsenal
+
+### 💻 Core Development
 <p align="left">
-  <img src="https://img.shields.io/badge/-Data%20Structures-orange?style=flat-square&logo=gitbook&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java%20Developer-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL%20Specialist-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,bash,powershell" />
 </p>
 
----
-
-### 💫 About Me
-- 🔭 **Currently:** Deep-diving into **Data Structures & Algorithms** and **System Design**.
-- 👯 **Looking to collaborate on:** Open-source **Java** or **Python** backend projects.
-- 🤝 **I can help with:** Understanding **Dynamic Programming**, **Operating Systems**, and **OOP** concepts.
-- 🌱 **Learning:** High-performance **SQL** optimization and **Database Internals**.
-- ⚡ **Fun Fact:** My favorite phrase is *"It works on my machine,"* but my second favorite is *"Wait, why is it working now?"*
-
----
-
-### 🌐 Let's Connect
+### 📊 Data & Databases
 <p align="left">
-<a href="https://www.linkedin.com/in/sanjeet-roy-6b1915373/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjeet-roy" height="30" width="40" /></a>
-<a href="mailto:sanjeet1603@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="sanjeet1603" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,pandas,numpy" />
+</p>
+
+### ☁️ Infrastructure & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gcp,git,github,postman,vercel,anaconda" />
 </p>
 
 ---
 
-### 💻 My Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) |
-| **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?logo=matplotlib&logoColor=black) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
-| **Tools & Cloud** | ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) |
-
----
-
-### 📊 GitHub Activity
+## 📈 Engineering Metrics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SanjeetRoy18&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjeetRoy18&layout=compact&theme=tokyonight&hide_border=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanjeetRoy18&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ccff&icon_color=00ccff&text_color=ffffff&bg_color=000000" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjeetRoy18&layout=compact&theme=tokyonight&hide_border=true&title_color=00ccff&icon_color=00ccff&text_color=ffffff&bg_color=000000" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjeetRoy18&theme=tokyonight&hide_border=false" />
-</p>
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjeetRoy18&theme=tokyonight&hide_border=true&stroke=00ccff&background=000000&ring=00ccff&currStreakLabel=00ccff" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SanjeetRoy18&icon=5&color=12" alt="Views" />
-</p>
+<div align="center">
+
+### 💡 Engineering Philosophy
+*"Code is like humor. When you have to explain it, it’s bad."*
+<br>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=000000&hide_border=true" width="80%" />
+
+<br>
+
+**Visitors Count**
+<br>
+<img src="https://visitcount.itsvg.in/api?id=SanjeetRoy18&icon=5&color=12" />
+</div>
