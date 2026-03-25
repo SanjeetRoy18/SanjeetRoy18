@@ -57,8 +57,3 @@ I am a developer driven by the challenge of **Data Structures & Algorithms**. Cu
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=000000&hide_border=true" width="80%" />
 
 <br>
-
-**Visitors Count**
-<br>
-<img src="https://visitcount.itsvg.in/api?id=SanjeetRoy18&icon=5&color=12" />
-</div>
