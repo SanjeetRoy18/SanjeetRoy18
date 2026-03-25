@@ -52,7 +52,6 @@ I am a developer driven by the challenge of **Data Structures & Algorithms**. Cu
 <div align="center">
 
 ### 💡 Engineering Philosophy
-*"Code is like humor. When you have to explain it, it’s bad."*
 <br>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=000000&hide_border=true" width="80%" />
 
