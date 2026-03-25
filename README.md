@@ -1,46 +1,59 @@
-# 💫 About Me
+# 🚀 Hi, I'm Sanjeet! 
 
-<br>🚀 **Focus:** Mastering Data Structures, Algorithms, and System Design.</br>
-<br>👯 **Collaborate:** Open-source projects involving **Python** or **Java**</br>
-<br>🤝 **Help:** Understanding complex concepts like **Dynamic Programming** or **Operating Systems**.</br>
-<br>🌱 **Learning:** Database Management and advanced **SQL** optimization.</br>
-<br>⚡ **Fun Fact:** "It works on my machine" is my favorite (and most dangerous) phrase.</br>
-
----
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjeet-roy-6b1915373/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjeet1603@gmail.com)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Data%20Structures-orange?style=flat-square&logo=gitbook&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java%20Developer-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL%20Specialist-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
 ---
 
-## 💻 Tech Stack
-
-### 🛠 Languages & Scripting
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
-### 📊 Data Science & Databases
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🌐 Web & Cloud
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-### 🔧 Tools & UI
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+### 💫 About Me
+- 🔭 **Currently:** Deep-diving into **Data Structures & Algorithms** and **System Design**.
+- 👯 **Looking to collaborate on:** Open-source **Java** or **Python** backend projects.
+- 🤝 **I can help with:** Understanding **Dynamic Programming**, **Operating Systems**, and **OOP** concepts.
+- 🌱 **Learning:** High-performance **SQL** optimization and **Database Internals**.
+- ⚡ **Fun Fact:** My favorite phrase is *"It works on my machine,"* but my second favorite is *"Wait, why is it working now?"*
 
 ---
 
-## 📊 GitHub Stats
+### 🌐 Let's Connect
+<p align="left">
+<a href="https://www.linkedin.com/in/sanjeet-roy-6b1915373/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjeet-roy" height="30" width="40" /></a>
+<a href="mailto:sanjeet1603@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="sanjeet1603" height="30" width="40" /></a>
+</p>
+
+---
+
+### 💻 My Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?logo=matplotlib&logoColor=black) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **Tools & Cloud** | ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) |
+
+---
+
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjeetRoy18&show_icons=true&theme=tokyonight&count_private=true" alt="Sanjeet's Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjeetRoy18&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjeetRoy18&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SanjeetRoy18&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjeetRoy18&layout=compact&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjeetRoy18&theme=tokyonight&hide_border=false" />
 </p>
 
 ### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=SanjeetRoy18&icon=5&color=12" alt="Views" />
+</p>
