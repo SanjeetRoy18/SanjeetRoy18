@@ -14,7 +14,7 @@ I am a developer driven by the challenge of **Data Structures & Algorithms**. Cu
 
 * 🔭 **Current Focus:** Mastering the art of Dynamic Programming & Operating System architecture.
 * 👯 **Collaboration:** Seeking high-impact Open-source contributions in Python/Java ecosystems.
-* 🌱 **Deep Dive:** Optimizing complex SQL queries and exploring NoSQL scaling.
+* 🌱 **Deep Dive:** Optimizing complex SQL queries and exploring MySQL scaling.
 
 ---
 
