@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000500,70:003366,100:00ccff&height=200&section=header&text=Sanjeet%20Roy&fontSize=90&animation=fadeIn&fontAlignY=35&fontColor=ffffff&stroke=000000&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000500,70:003366,100:00ccff&height=200&section=header&text=Sanjeet%20Roy&fontSize=90&animation=fadeIn&fontAlignY=35&fontColor=ffffff&stroke=000000&strokeWidth=0" width="100%" />
 
   ###  Software Engineer | Data Specialist | Problem Solver
   
