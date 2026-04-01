@@ -47,8 +47,6 @@ I am a developer driven by the challenge of **Data Structures & Algorithms**. Cu
   
   <br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SanjeetRoy18&show_icons=true&theme=dark" />
-
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjeetRoy18&theme=tokyonight&hide_border=true&stroke=00ccff&background=000000&ring=00ccff&currStreakLabel=00ccff" alt="Sanjeet's Contribution Streak" />
 </div>
 
