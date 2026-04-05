@@ -40,14 +40,10 @@ I am a developer driven by the challenge of **Data Structures & Algorithms**. Cu
 ## 📈 Engineering Metrics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SanjeetRoy18&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Sanjeet's GitHub Stats" />
-
   <br/>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjeetRoy18&layout=compact&theme=dark&hide_border=false" alt="Sanjeet's Top Languages" />
-  
   <br/>
-
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjeetRoy18&theme=tokyonight&hide_border=true&stroke=00ccff&background=000000&ring=00ccff&currStreakLabel=00ccff" alt="Sanjeet's Contribution Streak" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=SanjeetRoy18&theme=tokyonight&hide_border=true&stroke=00ccff&background=000000&ring=00ccff&currStreakLabel=00ccff" alt="Sanjeet's Contribution Streak" />
 </div>
 
 ---
