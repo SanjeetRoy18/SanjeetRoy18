@@ -38,6 +38,18 @@ I am a developer driven by the challenge of **Data Structures & Algorithms**. Cu
 ---
 
 ## 📈 Engineering Metrics
+
+<p align="center">
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tkarim45&theme=tokyonight" alt="Stats"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tkarim45&theme=tokyonight" alt="Top Languages"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tkarim45&theme=tokyonight" alt="Most Commit Language"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tkarim45&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
+</p>
+
+<p align="center">
+<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=tkarim45&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SanjeetRoy18&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Sanjeet's GitHub Stats" />
   <br/>
