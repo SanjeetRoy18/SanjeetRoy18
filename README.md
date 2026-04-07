@@ -40,10 +40,10 @@ I am a developer driven by the challenge of **Data Structures & Algorithms**. Cu
 ## 📈 Engineering Metrics
 
 <p align="center">
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tkarim45&theme=tokyonight" alt="Stats"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tkarim45&theme=tokyonight" alt="Top Languages"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tkarim45&theme=tokyonight" alt="Most Commit Language"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tkarim45&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SanjeetRoy18&theme=tokyonight" alt="Stats"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SanjeetRoy18&theme=tokyonight" alt="Top Languages"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SanjeetRoy18&theme=tokyonight" alt="Most Commit Language"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SanjeetRoy18&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
 </p>
 
 <p align="center">
