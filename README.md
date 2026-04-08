@@ -22,7 +22,7 @@ I am a developer driven by the challenge of **Data Structures & Algorithms**. Cu
 
 ### 💻 Core Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,js,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=html,css,c,java,python,js,bash,powershell" />
 </p>
 
 ### 📊 Data & Databases
