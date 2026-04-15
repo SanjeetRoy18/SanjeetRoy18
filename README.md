@@ -32,7 +32,7 @@ I am a developer driven by the challenge of **Data Structures & Algorithms**. Cu
 
 ### ☁️ Infrastructure & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,git,github,postman,vercel,anaconda" />
+  <img src="https://skillicons.dev/icons?i=gcp,git,github,vscode,postman,vercel,anaconda" />
 </p>
 
 ---
