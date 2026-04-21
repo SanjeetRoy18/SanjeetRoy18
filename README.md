@@ -27,7 +27,7 @@ I am a developer driven by the challenge of **Data Structures & Algorithms**. Cu
 
 ### 📊 Data & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" />
 </p>
 
 ### ☁️ Infrastructure & Tools
