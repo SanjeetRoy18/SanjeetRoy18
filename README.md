@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000500,70:003366,100:00ccff&height=200&section=header&text=Sanjeet%20Roy&fontSize=90&animation=fadeIn&fontAlignY=35&fontColor=ffffff&stroke=000000&strokeWidth=0" width="100%" />
 
-  ###  Software Engineer | Data Specialist | Problem Solver
+  ###  Software Engineer | CyberSecurity | Problem Solver
   
   [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjeet-roy-6b1915373/)
   [![Email](https://img.shields.io/badge/Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjeet1603@gmail.com)
